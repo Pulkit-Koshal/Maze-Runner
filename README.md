@@ -1,19 +1,20 @@
 # Maze_Runner
 
 The Program consists of 5 separate files.
-  1 Main
+
+1 Main
   
   ```To run the program.```
   
-  2 Graphics
+2 Graphics
   
   ```Using Tkinter Package along with canvas module, I created a small Interface Window, along with 2 other classes Line and Point to draw on the canvas.```
   
-  3 Cell
+3 Cell
   
   `Using the classes present in Graphics.py, i created 2 functions to draw a cubical cell and to draw a red & gray line for recording the moves.`
   
-  4 Maze
+4 Maze
   
   ```
 Now using the Cell class, i created 4 functions
@@ -25,7 +26,7 @@ Now using the Cell class, i created 4 functions
 - Solve : Simple Implementation of DFS search to find out the solution.
 ```
 
-  5 Test
+5 Test
   
   ```This consists of Unit tests to ensure the program in in-sync with the goal.```
   
